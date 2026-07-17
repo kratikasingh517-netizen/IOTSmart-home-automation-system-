@@ -125,11 +125,7 @@ IoT-Smart-Home-Automation/
 ## 📸 Circuit Diagram
 
 Add your circuit diagram here.
-<p align="center">
-  <img src="Images/smart-home-automation-system.png" width="700">
-</p>
-![Smart Home Automation System](https://raw.githubusercontent.com/kratikasingh517-netizen/IOTSmart-home-automation-system-/5691c1ea09dd4699d832deba2483352499692567/Smart%20Home%20Automation%20System.png)
----
+https://raw.githubusercontent.com/kratikasingh517-netizen/IOTSmart-home-automation-system-/main/Smart%20Home%20Automation%20System.png
 
 ##  Applications
 
