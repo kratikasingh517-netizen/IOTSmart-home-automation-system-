@@ -112,17 +112,10 @@ The project demonstrates how embedded systems and IoT concepts can be used to cr
 IoT-Smart-Home-Automation/
 │
 ├── Arduino_Code/
-│   └── SmartHomeAutomation.ino
+│   └── smart_home_automation_system1(1).ino
 │
 ├── Circuit_Diagram/
-│   └── circuit.png
-│
-├── Images/
-│   ├── output.png
-│   └── simulation.png
-│
-├── Documentation/
-│   └── Project_Report.pdf
+│   └── Smart Home Automation System.png
 │
 └── README.md
 ```
@@ -136,17 +129,7 @@ Add your circuit diagram here.
 <p align="center">
   <img src="Images/Smart Home Automation System.png" width="700">
 </p>
-
-
----
-
-##  Output
-
-Add screenshots of the simulation or hardware output.
-
-<h2>Circuit Diagram</h2>
-
-
+![image alt](https://github.com/kratikasingh517-netizen/IOTSmart-home-automation-system-/blob/5691c1ea09dd4699d832deba2483352499692567/Smart%20Home%20Automation%20System.png)
 ---
 
 ##  Applications
